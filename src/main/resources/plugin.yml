@@ -1,0 +1,11 @@
+name: ShowItem
+main: com.github.neapovil.showitem.ShowItem
+version: 1.0.0
+api-version: 1.13
+author: Neapovil
+website: https://github.com/Neapovil/showitem
+depend:
+  - CommandAPI
+permissions:
+  showitem.command:
+    default: true
